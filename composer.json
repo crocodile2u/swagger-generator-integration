@@ -1,0 +1,22 @@
+{
+    "name": "crocodile2u/swagger-generator-integration",
+    "description": "Integration interfaces for swagger-generator",
+    "type": "library",
+    "require-dev": {
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Victor Bolshov",
+            "email": "crocodile2u@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "SwaggerGenerator\\Integration\\": "src/"
+        }
+    }
+}
