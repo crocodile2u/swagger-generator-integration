@@ -5,7 +5,7 @@ namespace SwaggerGenerator\Integration;
 interface Controller
 {
     /**
-     * @return PathCollectionInterface
+     * @return PathCollectionInterface|array
      */
-    public static function getSwaggerPaths(SerializationContext $context);
+    public static function getSwaggerPaths();
 }
