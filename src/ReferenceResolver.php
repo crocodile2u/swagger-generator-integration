@@ -9,5 +9,5 @@ interface ReferenceResolver
      * @param string $name
      * @return ObjectTypeInterface
      */
-    public static function resolveSwaggerType(SerializationContext $context, $name);
+    public function resolveSwaggerType(SerializationContext $context, $name);
 }
