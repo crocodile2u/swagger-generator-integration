@@ -1,5 +1,5 @@
 {
-    "name": "crocodile2u/swagger-generator-integration",
+    "name": "nbwm/swagger-generator-integration",
     "description": "Integration interfaces for swagger-generator",
     "type": "library",
     "require-dev": {
@@ -8,7 +8,7 @@
     "authors": [
         {
             "name": "Victor Bolshov",
-            "email": "crocodile2u@gmail.com"
+            "email": "victor.bolshov@nbwm.nl"
         }
     ],
     "require": {
