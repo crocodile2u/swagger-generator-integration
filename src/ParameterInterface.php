@@ -10,6 +10,11 @@ interface ParameterInterface extends \JsonSerializable
     public function getName();
 
     /**
+     * @return string
+     */
+    public function locatedIn();
+
+    /**
      * @param string $description
      * @return $this
      */
