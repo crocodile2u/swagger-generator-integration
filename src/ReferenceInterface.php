@@ -2,7 +2,7 @@
 
 namespace SwaggerGenerator\Integration;
 
-interface Reference
+interface ReferenceInterface
 {
     /**
      * @return string
