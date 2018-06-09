@@ -8,11 +8,11 @@
     "authors": [
         {
             "name": "Victor Bolshov",
-            "email": "victor.bolshov@nbwm.nl"
+            "email": "crocodile2u@gmail.com"
         }
     ],
     "require": {
-        "php": ">=5.3"
+        "php": ">=7.0"
     },
     "autoload": {
         "psr-4": {
