@@ -1,5 +1,5 @@
 {
-    "name": "nbwm/swagger-generator-integration",
+    "name": "crocodile2u/swagger-generator-integration",
     "description": "Integration interfaces for swagger-generator",
     "type": "library",
     "require-dev": {
